@@ -1,0 +1,12 @@
+
+produto
+
+http://localhost/API-PWEB/api/produtos/iproduto.php?jsn={%22nome%22:%22X-TUDO%22,%22vlvenda%22:%220.00%22,%22cat%22:1}
+
+categoria
+
+http://localhost/API-PWEB/api/categorias/icategoria.php?jsn={%22nome%22:%22LACNHES%22}
+
+ingredientes
+
+http://localhost/API-PWEB/api/ingredientes/iingrediente.php?jsn={%22nome%22:%22salada%22,%22vlunitario%22:%221.00%22}
