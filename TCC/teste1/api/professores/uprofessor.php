@@ -1,5 +1,5 @@
 <?php
-//iusuario.php - serve para cadastrar um novo usuário
+//uprofessor.php - serve para alterar um professor
 require '../../app/conexao.php';
 $pdo = Conexao::conectar();
 $pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
